@@ -1,4 +1,4 @@
-import 'package:qiita/model/user.dart';
+import 'package:qiita_flutter/model/user.dart';
 
 class Article {
   final String title;

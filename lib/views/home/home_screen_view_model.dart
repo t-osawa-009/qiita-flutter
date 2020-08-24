@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:qiita/service/qiita_service.dart';
-import 'package:qiita/model/article.dart';
+import 'package:qiita_flutter/service/qiita_service.dart';
+import 'package:qiita_flutter/model/article.dart';
 import 'package:flutter/foundation.dart';
 import 'dart:async';
 

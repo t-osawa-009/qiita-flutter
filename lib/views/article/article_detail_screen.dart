@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_webview_plugin/flutter_webview_plugin.dart';
-import 'package:qiita/model/article.dart';
+import 'package:qiita_flutter/model/article.dart';
 
 class ArticleDetailPage extends StatelessWidget {
   final Article article;

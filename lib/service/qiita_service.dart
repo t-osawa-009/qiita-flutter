@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'dart:convert';
-import 'package:qiita/model/article.dart';
+import 'package:qiita_flutter/model/article.dart';
 import 'package:http/http.dart' as http;
 
 class QiitaService {

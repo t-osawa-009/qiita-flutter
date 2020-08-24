@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:qiita/views/home/home_view_model.dart';
-import 'package:qiita/model/article.dart';
-import 'package:qiita/views/article/article_detail_screen.dart';
+import 'package:qiita_flutter/views/home/home_screen_view_model.dart';
+import 'package:qiita_flutter/views/article/article_detail_screen.dart';
 
 class HomePage extends StatelessWidget {
   @override
